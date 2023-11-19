@@ -33,12 +33,10 @@ const SmartContract = () => {
 
                 {displayStartButton ?
                     <>
-
                         <h2>Click below button for explanation</h2>
                         <div style={{ marginTop: '2%', display: 'flex', gap: '100px' }}>
                             <button className="button-33" role="button" style={{ marginRight: 'auto' }}
                                 onClick={handleSmartContract}>Smart Contract</button>
-
                         </div>
                     </>
                     : ""}
