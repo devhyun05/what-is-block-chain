@@ -54,6 +54,7 @@ const Main = () => {
     setSecondEthValue((prevEthValue) => (parseFloat(prevEthValue) + parseFloat(randomIncrease)).toFixed(2));
   };
   const sendToUserTwo = () => {
+    setLeftArrowDisplay(false);
     setArrowDisplay(true);
     setSecondEthValue((parseFloat(secondEthValue) + parseFloat(firstInputAmount)).toFixed(2));
     setEthValue((parseFloat(ethValue) - parseFloat(firstInputAmount)).toFixed(2));
