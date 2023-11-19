@@ -31,7 +31,7 @@ Start the frontend
 
 ## Acknowledgements
 
- - [SoloHacks]([https://blockhack.ca/](https://solo-hacks-1-0.devpost.com))
+ - [SoloHacks](https://solo-hacks-1-0.devpost.com/)
 
 
 
