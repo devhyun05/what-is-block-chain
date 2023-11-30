@@ -1,5 +1,6 @@
 # what-is-block-chain
-A web application to explain blockchain concept
+A open-source web application to explain blockchain concept. This is open-source project, always feel free <br/>
+to correct wrong information or make a pull request for adding new concepts, functionalities. 
 
 
 ## Tech Stack
